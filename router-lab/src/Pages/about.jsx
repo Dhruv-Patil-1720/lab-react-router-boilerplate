@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div>
         <Navbar/>
-        <h1 style={{textAlign:"center"}}>ABOUT</h1>
+        <h1 style={{textAlign:"center"}}>About</h1>
     </div>
   )
 }
