@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <div>
       <Navbar/>
-      <h1 style={{textAlign:"center"}}>HOMEPAGE</h1>
+      <h1 style={{textAlign:"center"}}>Home</h1>
     </div>
   )
 }
